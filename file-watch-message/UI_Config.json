@@ -1,0 +1,10 @@
+{
+  "output_file": "Settings/settings.json",
+  "Message": {
+    "type": "textbox",
+    "value": "Message {0}!",
+    "label": "Message",
+    "tooltip": "",
+    "group": "Widget Text"
+  }
+}
